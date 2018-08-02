@@ -1,2 +1,0 @@
-# ChessTry
-Chess World
